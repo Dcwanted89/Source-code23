@@ -1,6 +1,0 @@
-I:\[  #Luxurious Projects ]\Inx Obfuscator\Methods\bin\Debug\Methods.dll
-I:\[  #Luxurious Projects ]\Inx Obfuscator\Methods\bin\Debug\Methods.pdb
-I:\[  #Luxurious Projects ]\Inx Obfuscator\Methods\obj\Debug\Methods.csprojAssemblyReference.cache
-I:\[  #Luxurious Projects ]\Inx Obfuscator\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
-I:\[  #Luxurious Projects ]\Inx Obfuscator\Methods\obj\Debug\Methods.dll
-I:\[  #Luxurious Projects ]\Inx Obfuscator\Methods\obj\Debug\Methods.pdb
