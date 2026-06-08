@@ -1,0 +1,32 @@
+C:\Users\Inx\Desktop\SECURE BYTE GUI\Hardening\obj\Debug\Hardening.csproj.AssemblyReference.cache
+C:\Users\Inx\Desktop\SECURE BYTE GUI\Hardening\obj\Debug\Hardening.csproj.CoreCompileInputs.cache
+C:\Users\Inx\Desktop\SECURE BYTE GUI\Debug\Hardening.dll.config
+C:\Users\Inx\Desktop\SECURE BYTE GUI\Debug\Hardening.dll
+C:\Users\Inx\Desktop\SECURE BYTE GUI\Debug\Hardening.pdb
+C:\Users\Inx\Desktop\SECURE BYTE GUI\Hardening\obj\Debug\Hardening.csproj.CopyComplete
+C:\Users\Inx\Desktop\SECURE BYTE GUI\Hardening\obj\Debug\Hardening.dll
+C:\Users\Inx\Desktop\SECURE BYTE GUI\Hardening\obj\Debug\Hardening.pdb
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\Hardening\obj\Debug\Hardening.csproj.AssemblyReference.cache
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\Hardening\obj\Debug\Hardening.csproj.CoreCompileInputs.cache
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\Hardening\obj\Debug\Hardening.dll
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\Hardening\obj\Debug\Hardening.pdb
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\Debug\Hardening.dll.config
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\Debug\Hardening.dll
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\Debug\Hardening.pdb
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\Hardening\obj\Debug\Hardening.csproj.CopyComplete
+C:\Users\Administrator\Desktop\BlazzerGui\Debug\Hardening.dll.config
+C:\Users\Administrator\Desktop\BlazzerGui\Debug\Hardening.dll
+C:\Users\Administrator\Desktop\BlazzerGui\Debug\Hardening.pdb
+C:\Users\Administrator\Desktop\BlazzerGui\Hardening\obj\Debug\Hardening.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\BlazzerGui\Hardening\obj\Debug\Hardening.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BlazzerGui\Hardening\obj\Debug\Hardening.csproj.Up2Date
+C:\Users\Administrator\Desktop\BlazzerGui\Hardening\obj\Debug\Hardening.dll
+C:\Users\Administrator\Desktop\BlazzerGui\Hardening\obj\Debug\Hardening.pdb
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\Debug\Hardening.dll.config
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\Debug\Hardening.dll
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\Debug\Hardening.pdb
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\Hardening\obj\Debug\Hardening.csproj.AssemblyReference.cache
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\Hardening\obj\Debug\Hardening.csproj.CoreCompileInputs.cache
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\Hardening\obj\Debug\Hardening.csproj.Up2Date
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\Hardening\obj\Debug\Hardening.dll
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\Hardening\obj\Debug\Hardening.pdb
