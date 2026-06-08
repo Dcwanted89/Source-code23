@@ -1,0 +1,27 @@
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\Code decoder\bin\Debug\Code decoder.exe.config
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\Code decoder\bin\Debug\Code decoder.exe
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\Code decoder\bin\Debug\Code decoder.pdb
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\Code decoder\bin\Debug\Guna.UI2.dll
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\Code decoder\obj\Debug\Code decoder.csproj.AssemblyReference.cache
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\Code decoder\obj\Debug\Code decoder.csproj.SuggestedBindingRedirects.cache
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\Code decoder\obj\Debug\Code_decoder.Form1.resources
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\Code decoder\obj\Debug\Code_decoder.Properties.Resources.resources
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\Code decoder\obj\Debug\Code decoder.csproj.GenerateResource.cache
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\Code decoder\obj\Debug\Code decoder.csproj.CoreCompileInputs.cache
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\Code decoder\obj\Debug\Code decoder.csproj.CopyComplete
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\Code decoder\obj\Debug\Code decoder.exe
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\Code decoder\obj\Debug\Code decoder.pdb
+C:\Users\Administrator\Desktop\BlazzerGui\Code decoder\obj\Debug\Code decoder.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\BlazzerGui\Code decoder\obj\Debug\Code_decoder.Form1.resources
+C:\Users\Administrator\Desktop\BlazzerGui\Code decoder\obj\Debug\Code_decoder.Properties.Resources.resources
+C:\Users\Administrator\Desktop\BlazzerGui\Code decoder\obj\Debug\Code decoder.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\BlazzerGui\Code decoder\obj\Debug\Code decoder.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BlazzerGui\Code decoder\obj\Debug\Code decoder.exe
+C:\Users\Administrator\Desktop\BlazzerGui\Code decoder\obj\Debug\Code decoder.pdb
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\Code decoder\obj\Debug\Code decoder.csproj.AssemblyReference.cache
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\Code decoder\obj\Debug\Code_decoder.Form1.resources
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\Code decoder\obj\Debug\Code_decoder.Properties.Resources.resources
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\Code decoder\obj\Debug\Code decoder.csproj.GenerateResource.cache
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\Code decoder\obj\Debug\Code decoder.csproj.CoreCompileInputs.cache
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\Code decoder\obj\Debug\Code decoder.exe
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\Code decoder\obj\Debug\Code decoder.pdb

@@ -1,0 +1,46 @@
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\Code decoder\bin\Release\Code decoder.exe.config
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\Code decoder\bin\Release\Code decoder.exe
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\Code decoder\bin\Release\Code decoder.pdb
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\Code decoder\bin\Release\Guna.UI2.dll
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\Code decoder\obj\Release\Code decoder.csproj.AssemblyReference.cache
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\Code decoder\obj\Release\Code decoder.csproj.SuggestedBindingRedirects.cache
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\Code decoder\obj\Release\Code_decoder.Form1.resources
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\Code decoder\obj\Release\Code_decoder.Properties.Resources.resources
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\Code decoder\obj\Release\Code decoder.csproj.GenerateResource.cache
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\Code decoder\obj\Release\Code decoder.csproj.CoreCompileInputs.cache
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\Code decoder\obj\Release\Code decoder.csproj.CopyComplete
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\Code decoder\obj\Release\Code decoder.exe
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\Code decoder\obj\Release\Code decoder.pdb
+C:\Users\user76\Desktop\SECURE BYTE GUI\Code decoder\bin\Release\Code decoder.exe.config
+C:\Users\user76\Desktop\SECURE BYTE GUI\Code decoder\bin\Release\Code decoder.exe
+C:\Users\user76\Desktop\SECURE BYTE GUI\Code decoder\bin\Release\Code decoder.pdb
+C:\Users\user76\Desktop\SECURE BYTE GUI\Code decoder\obj\Release\Code decoder.csproj.AssemblyReference.cache
+C:\Users\user76\Desktop\SECURE BYTE GUI\Code decoder\obj\Release\Code_decoder.Form1.resources
+C:\Users\user76\Desktop\SECURE BYTE GUI\Code decoder\obj\Release\Code_decoder.Properties.Resources.resources
+C:\Users\user76\Desktop\SECURE BYTE GUI\Code decoder\obj\Release\Code decoder.csproj.GenerateResource.cache
+C:\Users\user76\Desktop\SECURE BYTE GUI\Code decoder\obj\Release\Code decoder.csproj.CoreCompileInputs.cache
+C:\Users\user76\Desktop\SECURE BYTE GUI\Code decoder\obj\Release\Code dec.B9AE34F6.Up2Date
+C:\Users\user76\Desktop\SECURE BYTE GUI\Code decoder\obj\Release\Code decoder.exe
+C:\Users\user76\Desktop\SECURE BYTE GUI\Code decoder\obj\Release\Code decoder.pdb
+C:\Users\Administrator\Desktop\BlazzerGui\Code decoder\bin\Release\Code decoder.exe.config
+C:\Users\Administrator\Desktop\BlazzerGui\Code decoder\bin\Release\Code decoder.exe
+C:\Users\Administrator\Desktop\BlazzerGui\Code decoder\bin\Release\Code decoder.pdb
+C:\Users\Administrator\Desktop\BlazzerGui\Code decoder\obj\Release\Code decoder.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\BlazzerGui\Code decoder\obj\Release\Code_decoder.Form1.resources
+C:\Users\Administrator\Desktop\BlazzerGui\Code decoder\obj\Release\Code_decoder.Properties.Resources.resources
+C:\Users\Administrator\Desktop\BlazzerGui\Code decoder\obj\Release\Code decoder.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\BlazzerGui\Code decoder\obj\Release\Code decoder.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BlazzerGui\Code decoder\obj\Release\Code dec.B9AE34F6.Up2Date
+C:\Users\Administrator\Desktop\BlazzerGui\Code decoder\obj\Release\Code decoder.exe
+C:\Users\Administrator\Desktop\BlazzerGui\Code decoder\obj\Release\Code decoder.pdb
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\Code decoder\bin\Release\Code decoder.exe.config
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\Code decoder\bin\Release\Code decoder.exe
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\Code decoder\bin\Release\Code decoder.pdb
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\Code decoder\obj\Release\Code decoder.csproj.AssemblyReference.cache
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\Code decoder\obj\Release\Code_decoder.Form1.resources
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\Code decoder\obj\Release\Code_decoder.Properties.Resources.resources
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\Code decoder\obj\Release\Code decoder.csproj.GenerateResource.cache
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\Code decoder\obj\Release\Code decoder.csproj.CoreCompileInputs.cache
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\Code decoder\obj\Release\Code dec.B9AE34F6.Up2Date
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\Code decoder\obj\Release\Code decoder.exe
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\Code decoder\obj\Release\Code decoder.pdb
