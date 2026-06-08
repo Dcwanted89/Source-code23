@@ -1,0 +1,22 @@
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\SECURE BYTE GUI\obj\Debug\SECURE BYTE GUI.csproj.AssemblyReference.cache
+I:\[  #Luxurious Projects ]\SECURE BYTE GUI\SECURE BYTE GUI\obj\Debug\SECURE BYTE GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\BlazzerGui\SECURE BYTE GUI\obj\Debug\SECURE BYTE GUI.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\BlazzerGui\SECURE BYTE GUI\obj\Debug\SECURE_BYTE_GUI.customMessage.resources
+C:\Users\Administrator\Desktop\BlazzerGui\SECURE BYTE GUI\obj\Debug\SECURE_BYTE_GUI.GUI.resources
+C:\Users\Administrator\Desktop\BlazzerGui\SECURE BYTE GUI\obj\Debug\SECURE_BYTE_GUI.Login.resources
+C:\Users\Administrator\Desktop\BlazzerGui\SECURE BYTE GUI\obj\Debug\SECURE_BYTE_GUI.Properties.Resources.resources
+C:\Users\Administrator\Desktop\BlazzerGui\SECURE BYTE GUI\obj\Debug\SECURE BYTE GUI.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\BlazzerGui\SECURE BYTE GUI\obj\Debug\SECURE BYTE GUI.csproj.CoreCompileInputs.cache
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\Debug\Blazzer Obfuscator Protect.exe.config
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\Debug\Blazzer Obfuscator Protect.exe
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\Debug\Blazzer Obfuscator Protect.pdb
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\SECURE BYTE GUI\obj\Debug\SECURE BYTE GUI.csproj.AssemblyReference.cache
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\SECURE BYTE GUI\obj\Debug\SECURE_BYTE_GUI.customMessage.resources
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\SECURE BYTE GUI\obj\Debug\SECURE_BYTE_GUI.GUI.resources
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\SECURE BYTE GUI\obj\Debug\SECURE_BYTE_GUI.Login.resources
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\SECURE BYTE GUI\obj\Debug\SECURE_BYTE_GUI.Properties.Resources.resources
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\SECURE BYTE GUI\obj\Debug\SECURE BYTE GUI.csproj.GenerateResource.cache
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\SECURE BYTE GUI\obj\Debug\SECURE BYTE GUI.csproj.CoreCompileInputs.cache
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\SECURE BYTE GUI\obj\Debug\SECURE B.B6048720.Up2Date
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\SECURE BYTE GUI\obj\Debug\Blazzer Obfuscator Protect.exe
+C:\Users\Anon\Desktop\Crypt\gui\Source Code\SECURE BYTE GUI\obj\Debug\Blazzer Obfuscator Protect.pdb
