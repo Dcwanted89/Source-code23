@@ -1,0 +1,6 @@
+J:\[ Sources ]\#New Work\0x7 Protector\Output\EM.dll
+J:\[ Sources ]\#New Work\0x7 Protector\Output\EM.pdb
+J:\[ Sources ]\#New Work\0x7 Protector\EM\obj\Release\EM.csproj.CoreCompileInputs.cache
+J:\[ Sources ]\#New Work\0x7 Protector\EM\obj\Release\EM.dll
+J:\[ Sources ]\#New Work\0x7 Protector\EM\obj\Release\EM.pdb
+J:\[ Sources ]\#New Work\0x7 Protector\EM\obj\Release\EM.csprojAssemblyReference.cache

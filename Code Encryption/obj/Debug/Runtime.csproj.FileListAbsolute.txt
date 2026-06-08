@@ -1,0 +1,16 @@
+C:\Users\root\source\repos\ExAntiTamper\Runtime\obj\Debug\Runtime.csproj.AssemblyReference.cache
+C:\Users\root\source\repos\ExAntiTamper\Runtime\obj\Debug\Runtime.csproj.CoreCompileInputs.cache
+C:\Users\root\source\repos\ExAntiTamper\Runtime\obj\Debug\Runtime.dll
+C:\Users\root\source\repos\ExAntiTamper\Runtime\obj\Debug\Runtime.pdb
+C:\ExAntiTamper\ExAntiTamper\bin\Debug\Runtime.dll
+C:\ExAntiTamper\ExAntiTamper\bin\Debug\Runtime.pdb
+C:\Users\root\source\repos\ExAntiTamper\Runtime\Runtime.dll
+C:\Users\root\source\repos\ExAntiTamper\Runtime\Runtime.pdb
+C:\Users\root\source\repos\ExAntiTamper\Runtime\bin\Debug\Runtime.dll
+C:\Users\root\source\repos\ExAntiTamper\Runtime\bin\Debug\Runtime.pdb
+J:\[ Sources ]\#New Work\ExAntiTamper\EM\bin\Debug\Runtime.dll
+J:\[ Sources ]\#New Work\ExAntiTamper\EM\bin\Debug\Runtime.pdb
+J:\[ Sources ]\#New Work\ExAntiTamper\EM\obj\Debug\Runtime.csproj.AssemblyReference.cache
+J:\[ Sources ]\#New Work\ExAntiTamper\EM\obj\Debug\Runtime.csproj.CoreCompileInputs.cache
+J:\[ Sources ]\#New Work\ExAntiTamper\EM\obj\Debug\Runtime.dll
+J:\[ Sources ]\#New Work\ExAntiTamper\EM\obj\Debug\Runtime.pdb

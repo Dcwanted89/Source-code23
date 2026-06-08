@@ -1,0 +1,9 @@
+I:\[  #Luxurious Projects ]\Inx Obfuscator\Inx Obfuscator\bin\Release\Methods.dll
+I:\[  #Luxurious Projects ]\Inx Obfuscator\Methods\obj\Release\Methods.csprojAssemblyReference.cache
+I:\[  #Luxurious Projects ]\Inx Obfuscator\Methods\obj\Release\Methods.csproj.CoreCompileInputs.cache
+I:\[  #Luxurious Projects ]\Inx Obfuscator\Methods\obj\Release\Methods.dll
+I:\[  #Luxurious Projects ]\SecureByte\Inx Obfuscator\bin\Release\Methods.dll
+I:\[  #Luxurious Projects ]\SecureByte\Methods\obj\Release\Methods.csprojAssemblyReference.cache
+I:\[  #Luxurious Projects ]\SecureByte\Methods\obj\Release\Methods.csproj.CoreCompileInputs.cache
+I:\[  #Luxurious Projects ]\SecureByte\Methods\obj\Release\Methods.dll
+I:\[  #Luxurious Projects ]\SecureByte\bin\Release\Methods.dll
